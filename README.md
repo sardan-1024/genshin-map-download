@@ -3,7 +3,8 @@ download the whole map of genshin impact with this code
 # Genshin Map Downloader
 
 Dark-theme GUI downloader for Teyvat map tiles.
-
+This project is not affiliated with or endorsed by HoYoverse.
+All game assets belong to their respective owners.
 ## Features
 - Auto version detection
 - Region selection
@@ -15,7 +16,3 @@ Dark-theme GUI downloader for Teyvat map tiles.
 ## Run
 pip install -r requirements.txt
 python main.py
-
-
-This project is not affiliated with or endorsed by HoYoverse.
-All game assets belong to their respective owners.
