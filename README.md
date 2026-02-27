@@ -4,12 +4,13 @@ needs python 3.12+
 MAKE SURE THAT WHEN YOU INSTALLED PYTHON, YOU CHECKED THE BOX "add python.exe to PATH" if you didn't or not sure if you did, reinstall python.
 # Genshin Map Downloader
 it may take up to 4 hours to download the map because the script downloads it at full qualtiy. (download time may defer depending on internet speed)
+when your map is outdated, delete or move the map to another folder, delete the "tiles" folder, and redownload the map.
 This project is not affiliated with or endorsed by HoYoverse.
 All game assets belong to their respective owners.
 ## Features
 - Resume support (remembers where it was last time)
 - Retry system
-
+- downloads the newest version of the map
 ## Run
 run this in powershell:
 python -m pip install requests pillow tqdm
