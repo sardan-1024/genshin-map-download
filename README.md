@@ -3,7 +3,7 @@ download the whole map of genshin impact with this python code (for windows). by
 needs python 3.12+
 MAKE SURE THAT WHEN YOU INSTALLED PYTHON, YOU CHECKED THE BOX "add python.exe to PATH" if you didn't or not sure if you did, reinstall python.
 # Genshin Map Downloader
-
+it may take up to 4 hours to download the map because the script downloads it at full qualtiy. (download time may defer depending on internet speed)
 This project is not affiliated with or endorsed by HoYoverse.
 All game assets belong to their respective owners.
 ## Features
